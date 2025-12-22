@@ -8,7 +8,7 @@ export class EmailProvider {
         this.transporter = nodemailer.createTransport({
             host: env.smtp.host,
             port: env.smtp.port,
-            secure: false,
+            secure: env.smtp.port === 465, // true for port 465 (SMTPS), false for 587 or 25 (STARTTLS)
             auth: {
                 user: env.smtp.user,
                 pass: env.smtp.pass,
