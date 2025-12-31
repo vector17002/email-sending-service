@@ -1,0 +1,28 @@
+[2025-12-31T11:16:27.599Z] Redis connection successful
+[2025-12-31T11:23:34.749Z] Email sent successfully to:vector17002@gmail.comfrom:undefined
+[2025-12-31T11:27:18.975Z] Email sent successfully to:a@test.comfrom:undefined
+[2025-12-31T11:27:45.314Z] Redis connection successful
+[2025-12-31T11:28:00.624Z] Email failed to send to:comdue toNo recipients defined
+[2025-12-31T11:29:20.572Z] Invalid email payload
+[2025-12-31T11:29:20.573Z] Email failed to send to:undefineddue toInvalid email payload
+[2025-12-31T11:29:30.821Z] Invalid email payload
+[2025-12-31T11:29:30.822Z] Email failed to send to:undefineddue toInvalid email payload
+[2025-12-31T11:29:31.633Z] Invalid email payload
+[2025-12-31T11:29:31.634Z] Email failed to send to:undefineddue toInvalid email payload
+[2025-12-31T11:29:52.199Z] Adding 2 jobs to queue
+[2025-12-31T11:29:52.267Z] Jobs added to queue successfully
+[2025-12-31T11:29:52.268Z] Emails queued successfully to:2emails
+[2025-12-31T11:29:52.317Z] Processing job 1:[object Object]
+[2025-12-31T11:29:52.400Z] Processing job 2:[object Object]
+[2025-12-31T11:29:54.164Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:29:54.204Z] Job 1 will be retried 
+[2025-12-31T11:29:54.204Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:29:56.680Z] Job 2 completed successfully
+[2025-12-31T11:29:59.499Z] Processing job 1:[object Object]
+[2025-12-31T11:30:12.718Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:30:14.249Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:30:14.250Z] Job 1 will be retried
+[2025-12-31T11:30:22.921Z] Processing job 1:[object Object]
+[2025-12-31T11:30:24.528Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:30:24.581Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:30:24.582Z] Job 1 will be moved to DLQ
