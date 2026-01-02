@@ -1,0 +1,86 @@
+[2025-12-31T11:16:27.599Z] Redis connection successful
+[2025-12-31T11:23:34.749Z] Email sent successfully to:vector17002@gmail.comfrom:undefined
+[2025-12-31T11:27:18.975Z] Email sent successfully to:a@test.comfrom:undefined
+[2025-12-31T11:27:45.314Z] Redis connection successful
+[2025-12-31T11:28:00.624Z] Email failed to send to:comdue toNo recipients defined
+[2025-12-31T11:29:20.572Z] Invalid email payload
+[2025-12-31T11:29:20.573Z] Email failed to send to:undefineddue toInvalid email payload
+[2025-12-31T11:29:30.821Z] Invalid email payload
+[2025-12-31T11:29:30.822Z] Email failed to send to:undefineddue toInvalid email payload
+[2025-12-31T11:29:31.633Z] Invalid email payload
+[2025-12-31T11:29:31.634Z] Email failed to send to:undefineddue toInvalid email payload
+[2025-12-31T11:29:52.199Z] Adding 2 jobs to queue
+[2025-12-31T11:29:52.267Z] Jobs added to queue successfully
+[2025-12-31T11:29:52.268Z] Emails queued successfully to:2emails
+[2025-12-31T11:29:52.317Z] Processing job 1:[object Object]
+[2025-12-31T11:29:52.400Z] Processing job 2:[object Object]
+[2025-12-31T11:29:54.164Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:29:54.204Z] Job 1 will be retried 
+[2025-12-31T11:29:54.204Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:29:56.680Z] Job 2 completed successfully
+[2025-12-31T11:29:59.499Z] Processing job 1:[object Object]
+[2025-12-31T11:30:12.718Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:30:14.249Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:30:14.250Z] Job 1 will be retried
+[2025-12-31T11:30:22.921Z] Processing job 1:[object Object]
+[2025-12-31T11:30:24.528Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:30:24.581Z] Job 1 failed:Error: No recipients defined
+[2025-12-31T11:30:24.582Z] Job 1 will be moved to DLQ
+[2026-01-02T11:14:24.225Z] Redis connection successful
+[2026-01-02T11:14:24.274Z] Redis connection successful
+[2026-01-02T11:15:12.004Z] Redis connection successful
+[2026-01-02T11:15:12.059Z] Redis connection successful
+[2026-01-02T11:15:58.478Z] Redis connection successful
+[2026-01-02T11:15:58.486Z] Adding 2 jobs to queue
+[2026-01-02T11:15:58.534Z] Redis connection successful
+[2026-01-02T11:15:58.565Z] Adding 1 jobs to queue
+[2026-01-02T11:15:58.752Z] Jobs added to queue successfully
+[2026-01-02T11:15:58.757Z] Invalid batch payload
+[2026-01-02T11:15:58.811Z] Jobs added to queue successfully
+[2026-01-02T11:15:58.811Z] Emails queued successfully to: 1emails
+[2026-01-02T11:17:22.731Z] Adding 2 jobs to queue
+[2026-01-02T11:17:22.732Z] Jobs added to queue successfully
+[2026-01-02T11:17:22.733Z] Invalid batch payload
+[2026-01-02T11:17:22.992Z] Redis connection successful
+[2026-01-02T11:17:23.017Z] Adding 1 jobs to queue
+[2026-01-02T11:17:23.370Z] Emails queued successfully to: 1emails
+[2026-01-02T11:17:23.370Z] Jobs added to queue successfully
+[2026-01-02T11:19:16.813Z] Redis connection successful
+[2026-01-02T11:19:16.844Z] Adding 1 jobs to queue
+[2026-01-02T11:19:17.107Z] Jobs added to queue successfully
+[2026-01-02T11:19:17.107Z] Emails queued successfully to: 1emails
+[2026-01-02T11:19:17.195Z] Adding 2 jobs to queue
+[2026-01-02T11:19:17.196Z] Invalid batch payload
+[2026-01-02T11:19:17.195Z] Jobs added to queue successfully
+[2026-01-02T11:19:41.536Z] Redis connection successful
+[2026-01-02T11:19:41.565Z] Adding 1 jobs to queue
+[2026-01-02T11:19:41.815Z] Emails queued successfully to: 1emails
+[2026-01-02T11:19:41.815Z] Jobs added to queue successfully
+[2026-01-02T11:19:41.896Z] Adding 2 jobs to queue
+[2026-01-02T11:19:41.897Z] Invalid batch payload
+[2026-01-02T11:19:41.896Z] Jobs added to queue successfully
+[2026-01-02T11:23:06.304Z] Redis connection successful
+[2026-01-02T11:23:06.332Z] Adding 1 jobs to queue
+[2026-01-02T11:23:06.590Z] Emails queued successfully to: 1emails
+[2026-01-02T11:23:06.590Z] Jobs added to queue successfully
+[2026-01-02T11:23:06.671Z] Adding 2 jobs to queue
+[2026-01-02T11:23:06.672Z] Invalid batch payload
+[2026-01-02T11:23:06.671Z] Jobs added to queue successfully
+[2026-01-02T11:24:03.998Z] Redis connection successful
+[2026-01-02T11:24:04.040Z] Adding 1 jobs to queue
+[2026-01-02T11:24:04.283Z] Jobs added to queue successfully
+[2026-01-02T11:24:04.283Z] Emails queued successfully to: 1emails
+[2026-01-02T11:24:04.367Z] Adding 2 jobs to queue
+[2026-01-02T11:24:04.367Z] Jobs added to queue successfully
+[2026-01-02T11:24:04.371Z] Invalid batch payload
+[2026-01-02T11:28:09.803Z] Adding 2 jobs to queue
+[2026-01-02T11:28:09.806Z] Invalid batch payload
+[2026-01-02T11:28:09.804Z] Jobs added to queue successfully
+[2026-01-02T11:29:55.012Z] Adding 2 jobs to queue
+[2026-01-02T11:29:55.013Z] Jobs added to queue successfully
+[2026-01-02T11:29:55.015Z] Invalid batch payload
+[2026-01-02T11:29:55.204Z] Emails queued successfully to: 1emails
+[2026-01-02T11:30:41.966Z] Emails queued successfully to: 1emails
+[2026-01-02T11:30:42.025Z] Adding 2 jobs to queue
+[2026-01-02T11:30:42.025Z] Jobs added to queue successfully
+[2026-01-02T11:30:42.027Z] Invalid batch payload
